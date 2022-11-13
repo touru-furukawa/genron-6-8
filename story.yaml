@@ -1,20 +1,15 @@
-logline: TODO
-readers: TODO
-concept: TODO
-theme: TODO
+logline: 雨の日に、過去・未来と会話ができる祠で、神秘体験する物理学者が過去の自分に語りかけて、お互いに助けようとする。
+concept: 水を通じて、過去・未来の自分と話ができたら？
+theme: 科学で解明しましょう。科学で疑いましょう。
 characters:
   - main:
-      outside: TODO
-      inside: TODO
-      history: TODO
-      ordeal: TODO
-  - sub:
-      outside: TODO
-      inside: TODO
-      history: TODO
+      outside: 30歳、男性。酒造会社の研究員。
+      inside: 自分を出さない。淡々としている。ちょっとそっけないけれど、人に合わせる。
+      history: 水との会話を人に信じてもらえず、閉じこもりがちに。
+      ordeal: かばってくれた女の子に照れて嫌いだと言ったことを悔いていて、それを是正しようとする。
 settings:
-  - いつどこで: TODO
-  - だれがなにをする: TODO
+  - いつどこで: 水が過去/未来のメッセージチャンネルである現代社会で
+  - だれがなにをする: 研究者が過去の自分と助け合う
   - ITEM:
       description: blah blah blah
       depends_on: ANOTHER ITEM
